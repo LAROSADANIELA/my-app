@@ -1,0 +1,31 @@
+/* Desktop - 2 */
+.proyectos {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+
+  background: #ebe7e7;
+}
+
+/* Rectangle 1 */
+.proyectos > h1 {
+  background: #ffffff;
+  border-radius: 10px;
+
+  /* ESTADOS DE PROYECTOS */
+
+  position: absolute;
+  width: 742px;
+  height: 52px;
+  left: 349px;
+  top: 87px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 59px;
+  text-align: center;
+
+  color: #000000;
+}

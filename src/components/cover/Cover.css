@@ -1,0 +1,103 @@
+.cover-container {
+  /* Desktop - 1 */
+
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+
+  background: #ebe7e7;
+}
+.cover-container > h1 {
+  /* Rectangle 1 */
+
+  background: #ffffff;
+  border-radius: 10px;
+
+  /* ORGANIZACION LABORAL */
+
+  position: absolute;
+  width: 742px;
+  height: 52px;
+  left: 349px;
+  top: 87px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 59px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.cover-container > h2 {
+  /* Rectangle 4 */
+
+  background: #fffdfd;
+  border-radius: 20px;
+
+  /* MENSAJE PROGRAMADO */
+
+  position: absolute;
+  width: 967px;
+  height: 86px;
+  left: 245px;
+  top: 367px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 59px;
+  text-align: center;
+
+  color: #000000;
+}
+
+#agenda {
+  /* Rectangle 2 */
+
+  background: #fffdfd;
+  border-radius: 20px;
+  /* AGENDA */
+
+  position: absolute;
+  width: 375px;
+  height: 100px;
+  left: 906px;
+  top: 755px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 59px;
+  text-align: center;
+
+  color: #000000;
+}
+
+#proyectos {
+  /* Rectangle 3 */
+
+  background: #fffdfd;
+  border-radius: 20px;
+
+  /* PROYECTOS */
+
+  position: absolute;
+  width: 375px;
+  height: 100px;
+  left: 158px;
+  top: 755px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 59px;
+  text-align: center;
+
+  color: #000000;
+}
