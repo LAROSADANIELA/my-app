@@ -1,0 +1,23 @@
+#botones {
+  /* Rectangle 3 */
+
+  background: #fffdfd;
+  border-radius: 20px;
+
+  /* PROYECTOS */
+
+  position: absolute;
+  width: 375px;
+  height: 100px;
+  left: 158px;
+  top: 755px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 59px;
+  text-align: center;
+
+  color: #000000;
+}

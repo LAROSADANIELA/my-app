@@ -1,4 +1,4 @@
-.cover-container {
+.agenda {
   /* Desktop - 1 */
 
   position: relative;
@@ -7,7 +7,7 @@
 
   background: #ebe7e7;
 }
-.cover-container > h1 {
+.agenda > h1 {
   /* Rectangle 1 */
 
   background: #ffffff;
